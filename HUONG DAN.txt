@@ -1,0 +1,7 @@
+1. Cài APPserv (quá trình cài nho password de sau sua trong file conn cho dung)
+(Neu cai moi thi dat la 123456 vi tep conn da de pass là 123456)
+2. giai nen va copy vao thu muc C:/Appserv/www
+3. Mo thu muc "Co so du lieu" lam theo tep huong dan trong do
+4. Mo trinh duyet go dia chi: localhost/trangsuc/ 
+Neu hien thi chua duoc co the do password khong dung
+mo tep conn de sua lai pass cho dung

@@ -1,0 +1,5 @@
+tai: localhost/phpmyadmin
+Tao csdl mang ten quynh
+sau do chon import va tim den file quynh.sql
+Neu khong thuc hien duoc thi
+copy thu muc mang ten quynh va dan - paste vao C:/appserv/MySQL/data/

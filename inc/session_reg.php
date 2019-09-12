@@ -1,0 +1,12 @@
+<?
+$_SESSION['reg_username'];
+$_SESSION['reg_email'];
+$_SESSION['reg_ho'];
+$_SESSION['reg_ten'];
+$_SESSION['reg_ngaysinh'];
+$_SESSION['reg_dienthoai'];
+$_SESSION['reg_fax'];
+$_SESSION['reg_congty'];
+$_SESSION['reg_city'];
+$_SESSION['reg_diachi'];
+?>
